@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Educational Quiz</string>
+    <string name="name_question">What is your name ?</string>
+    <string name="checkQuiz">check</string>
+    <string name="thanks">Welcome</string>
+    <string name="send">Send</string>
+    <string name="please">Please enter your name</string>
+    <string name="quiz_number_1">Quiz Number 1</string>
+    <string name="quiz_number_2">Quiz Number 2</string>
+    <string name="quiz_number_3">Quiz Number 3</string>
+    <string name="quiz_number_4">Quiz Number 4</string>
+    <string name="quiz_number_5">Quiz Number 5</string>
+    <string name="quiz_number_6">Quiz Number 6</string>
+    <string name="quiz_number_7">Quiz Number 7</string>
+    <string name="quiz_number_8">Quiz Number 8</string>
+    <string name="quiz_number_9">Quiz Number 9</string>
+    <string name="quiz_number_10">Quiz Number 10</string>
+    <string name="quiz1">How many prayers are performed by muslims every day ?</string>
+    <string name="quiz2">Which months its days number is 31 ?</string>
+    <string name="quiz3">In which month muslims are fasting</string>
+    <string name="quiz4">Choose the correct answer: 2+3 = </string>
+    <string name="quiz5">Complete 10,11,12,...,...,... </string>
+    <string name="quiz6">Choose: 5*3=</string>
+    <string name="quiz">What is this ?</string>
+
+</resources>

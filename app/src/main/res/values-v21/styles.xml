@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="secondActivity">
+        <item name="android:colorPrimary">@color/LightGreen</item>
+        <item name="android:colorPrimaryDark">@color/DarkGreen</item>
+    </style>
+</resources>
