@@ -20,5 +20,4 @@ This project is about combining various ideas and skills that I have practiced t
 ![edu3](https://cloud.githubusercontent.com/assets/28901635/26429003/db19a96c-40e4-11e7-8b39-cc1ef93df7fc.JPG)
 ![edu4](https://cloud.githubusercontent.com/assets/28901635/26429002/db17c804-40e4-11e7-84ff-a03caec4b251.JPG)
 ![edu5](https://cloud.githubusercontent.com/assets/28901635/26429005/db24c504-40e4-11e7-81b7-57943a265f66.JPG)
-![edu6](https://cloud.githubusercontent.com/assets/28901635/26429007/db68003a-40e4-11e7-9a16-38934a4d929e.JPG)
 
