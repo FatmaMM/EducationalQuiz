@@ -11,7 +11,6 @@ This project is about combining various ideas and skills that I have practiced t
    5- Commenting and documenting the code.
 
 # Procedure to build quiz app
-
     First, build the layout. This involves creating the quiz questions, deciding what type of quiz they will be, and formatting them in the xml layout file for your Activity.
     Second, you'll want to write code that links the layout to the activity. For step 3, you'll want variables that refer to each of the quiz answers.
     Finally, write the code for the button which checks your answers. This code should run through each question in the app, record whether the user got the question right, and then display the quiz results in a Toast message.
