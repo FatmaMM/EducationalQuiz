@@ -14,6 +14,8 @@ This project is about combining various ideas and skills that I have practiced t
     First, build the layout. This involves creating the quiz questions, deciding what type of quiz they will be, and formatting them in the xml layout file for your Activity.
     Second, you'll want to write code that links the layout to the activity. For step 3, you'll want variables that refer to each of the quiz answers.
     Finally, write the code for the button which checks your answers. This code should run through each question in the app, record whether the user got the question right, and then display the quiz results in a Toast message.
+    
+# project will be evaluated using the [Quiz App project rubric](https://review.udacity.com/#!/rubrics/158/view)
 
 # Screenshots
 ![edu1](https://cloud.githubusercontent.com/assets/28901635/26429001/db0ef7e2-40e4-11e7-87fb-c922a857fcd5.JPG)
